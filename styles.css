@@ -12,8 +12,7 @@ body {
   font-family: "Montserrat", sans-serif;
   margin: 0px auto;
   max-width: 85%;
-  width: 100%;
-}
+  }
 
 hr {
   margin: 2rem 0rem;
@@ -186,9 +185,4 @@ hr {
   padding-bottom: 1rem;
 }
 
-/** blogs **/
-
-.showcase-blog {
-  padding-bottom: 6rem;
-}
 
